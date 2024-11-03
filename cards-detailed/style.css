@@ -501,7 +501,7 @@ button.swiper-pagination-bullet {
 }
 
 .swiper-container.one .swiper-slide {
-    padding: 0 43px;
+    padding: 0 4px;
 }
 
 .swiper-container {
@@ -562,7 +562,7 @@ button.swiper-pagination-bullet {
     bottom: 0;
 }
 
-.swiper-pagination-bullet {
+/* .swiper-pagination-bullet {
     background-color: #ddd;  /* Light grey for inactive state */
     border: none;
     border-radius: 10px;  /* Rounded rectangle shape */
@@ -583,5 +583,5 @@ button.swiper-pagination-bullet {
     vertical-align: middle;  /* Ensure vertical alignment */
     position: relative;
     top: -.5px;  /* Slight adjustment to visually center the active bullet */
-}
+} */
 
