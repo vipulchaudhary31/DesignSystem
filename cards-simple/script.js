@@ -48,7 +48,7 @@ var swiper = new Swiper('.swiper-container.two', {
 
   // Autoplay (optional)
   autoplay: {
-    delay: 1000,
+    delay: 1200,
     disableOnInteraction: false,
   },
 
