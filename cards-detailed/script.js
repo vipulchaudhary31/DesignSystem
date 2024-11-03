@@ -46,7 +46,7 @@ var swiper = new Swiper('.swiper-container.two', {
   watchSlidesProgress: true,
   watchSlidesVisibility: true,
 
-  // Autoplay (optional)
+   //Autoplay (optional)
   autoplay: {
     delay: 1200,
     disableOnInteraction: false,
