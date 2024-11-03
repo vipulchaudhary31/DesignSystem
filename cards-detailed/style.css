@@ -534,7 +534,9 @@ button.swiper-pagination-bullet {
        width: 100%; /* Fill available space on mobile */
        height: auto; /* Maintain aspect ratio */
     }
+      
 }
+
 
 /*.swiper-slide img {
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
@@ -557,7 +559,7 @@ button.swiper-pagination-bullet {
     bottom: 0;
 }
 
-.swiper-pagination-bullet {
+/* .swiper-pagination-bullet {
     background-color: #ddd;  /* Light grey for inactive state */
     border: none;
     border-radius: 10px;  /* Rounded rectangle shape */
@@ -578,5 +580,5 @@ button.swiper-pagination-bullet {
     vertical-align: middle;  /* Ensure vertical alignment */
     position: relative;
     top: -.5px;  /* Slight adjustment to visually center the active bullet */
-}
+} */
 
